@@ -1,0 +1,22 @@
+                   
+                     C3 C3/CAM  C4
+  Baobabopsis         0      0   2
+  Basidiophora        4      0   0
+  Benua               1      0   0
+  Bremia             18      0   0
+  Eraphthora          0      0   1
+  Graminivora         0      0   1
+  Hyaloperonospora   95      0   0
+  Novotelnova         1      0   0
+  Paraperonospora     9      0   0
+  Perofascia          2      0   0
+  Peronosclerospora   0      0  13
+  Peronospora       367      1  13
+  Plasmopara        122      0   0
+  Plasmoverna         7      0   0
+  Poakatesthia        0      0   1
+  Protobremia         1      0   0
+  Pseudoperonospora   7      0   0
+  Sclerophthora       4      0   2
+  Sclerospora         1      0   3
+  Viennotia           0      0   1

@@ -1,0 +1,22 @@
+                   
+                    mycorrhizal nonmycorrhizal
+  Baobabopsis                 2              0
+  Basidiophora                4              0
+  Benua                       1              0
+  Bremia                     18              0
+  Eraphthora                  1              0
+  Graminivora                 1              0
+  Hyaloperonospora            0             95
+  Novotelnova                 1              0
+  Paraperonospora             9              0
+  Perofascia                  0              2
+  Peronosclerospora          13              0
+  Peronospora               277            104
+  Plasmopara                118              4
+  Plasmoverna                 7              0
+  Poakatesthia                1              0
+  Protobremia                 1              0
+  Pseudoperonospora           7              0
+  Sclerophthora               6              0
+  Sclerospora                 4              0
+  Viennotia                   1              0
