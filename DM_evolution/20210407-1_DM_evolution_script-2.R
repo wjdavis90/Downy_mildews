@@ -8,7 +8,7 @@ library(RColorBrewer)
 
 #set working directory
 
-setwd("C://Users//wjdavis//Documents//R_working_dir//NA_DM//evolution")
+setwd("")
 
 #Reading in the file with downy mildew species, removing the empty column,
 #cleaning up the column names, reordering the columns, and filling in the
