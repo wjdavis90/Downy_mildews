@@ -1,0 +1,65 @@
+INFO [2021-10-19 15:06:26] $x
+INFO [2021-10-19 15:06:26] list(NA_DM_reduced_columns %>% filter(country == "United States of America") %>% 
+INFO [2021-10-19 15:06:26]     select(cur_scientific_name) %>% unlist(), NA_DM_reduced_columns %>% 
+INFO [2021-10-19 15:06:26]     filter(country == "Canada") %>% select(cur_scientific_name) %>% 
+INFO [2021-10-19 15:06:26]     unlist(), NA_DM_reduced_columns %>% filter(country == "Mexico") %>% 
+INFO [2021-10-19 15:06:26]     select(cur_scientific_name) %>% unlist())
+INFO [2021-10-19 15:06:26] 
+INFO [2021-10-19 15:06:26] $category.names
+INFO [2021-10-19 15:06:26] c("United States of America", "Canada", "Mexico")
+INFO [2021-10-19 15:06:26] 
+INFO [2021-10-19 15:06:26] $filename
+INFO [2021-10-19 15:06:26] [1] "Fig_2_venn_diagram_number_species_each_country.tiff"
+INFO [2021-10-19 15:06:26] 
+INFO [2021-10-19 15:06:26] $output
+INFO [2021-10-19 15:06:26] [1] TRUE
+INFO [2021-10-19 15:06:26] 
+INFO [2021-10-19 15:06:26] $imagetype
+INFO [2021-10-19 15:06:26] [1] "tiff"
+INFO [2021-10-19 15:06:26] 
+INFO [2021-10-19 15:06:26] $height
+INFO [2021-10-19 15:06:26] [1] 190
+INFO [2021-10-19 15:06:26] 
+INFO [2021-10-19 15:06:26] $width
+INFO [2021-10-19 15:06:26] [1] 190
+INFO [2021-10-19 15:06:26] 
+INFO [2021-10-19 15:06:26] $units
+INFO [2021-10-19 15:06:26] [1] "mm"
+INFO [2021-10-19 15:06:26] 
+INFO [2021-10-19 15:06:26] $resolution
+INFO [2021-10-19 15:06:26] [1] 1000
+INFO [2021-10-19 15:06:26] 
+INFO [2021-10-19 15:06:26] $compression
+INFO [2021-10-19 15:06:26] [1] "lzw"
+INFO [2021-10-19 15:06:26] 
+INFO [2021-10-19 15:06:26] $lwd
+INFO [2021-10-19 15:06:26] [1] 1
+INFO [2021-10-19 15:06:26] 
+INFO [2021-10-19 15:06:26] $col
+INFO [2021-10-19 15:06:26] c("#756bb1", "#386cb0", "#66a61e")
+INFO [2021-10-19 15:06:26] 
+INFO [2021-10-19 15:06:26] $fill
+INFO [2021-10-19 15:06:26] c(alpha("#756bb1", 0.3), alpha("#386cb0", 0.3), alpha("#66a61e", 
+INFO [2021-10-19 15:06:26]     0.3))
+INFO [2021-10-19 15:06:26] 
+INFO [2021-10-19 15:06:26] $cex
+INFO [2021-10-19 15:06:26] [1] 2
+INFO [2021-10-19 15:06:26] 
+INFO [2021-10-19 15:06:26] $cat.cex
+INFO [2021-10-19 15:06:26] [1] 2
+INFO [2021-10-19 15:06:26] 
+INFO [2021-10-19 15:06:26] $cat.default.pos
+INFO [2021-10-19 15:06:26] [1] "outer"
+INFO [2021-10-19 15:06:26] 
+INFO [2021-10-19 15:06:26] $cat.pos
+INFO [2021-10-19 15:06:26] c(-30, 30, -3)
+INFO [2021-10-19 15:06:26] 
+INFO [2021-10-19 15:06:26] $cat.dist
+INFO [2021-10-19 15:06:26] c(0.03, 0.04, 0.0275)
+INFO [2021-10-19 15:06:26] 
+INFO [2021-10-19 15:06:26] $cat.col
+INFO [2021-10-19 15:06:26] [1] "black"
+INFO [2021-10-19 15:06:26] 
+INFO [2021-10-19 15:06:26] $rotation
+INFO [2021-10-19 15:06:26] [1] 1
+INFO [2021-10-19 15:06:26] 
