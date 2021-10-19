@@ -1,3 +1,0 @@
- [1] "Peronospora aestivalis"   "Peronospora arthurii"     "Peronospora destructor"   "Peronospora effusa"      
- [5] "Peronospora manshurica"   "Peronospora pisi"         "Plasmopara geranii"       "Plasmopara halstedii"    
- [9] "Plasmopara viticola"      "Sclerophthora macrospora"

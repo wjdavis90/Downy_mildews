@@ -1,8 +1,0 @@
-Species Accumulation Curve
-Accumulation method: exact
-Call: specaccum(comm = NA_DM_table_country) 
-
-                              
-Sites     1.00000   2.0000   3
-Richness 92.33333 154.3333 196
-sd       72.08483  53.3250   0

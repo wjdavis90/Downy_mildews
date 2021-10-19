@@ -1,3 +1,0 @@
-[1] "Hyaloperonospora arabidis-glabrae" "Peronospora cheiranthi"            "Peronospora galii"                
-[4] "Peronospora lathyri-palustris"     "Peronospora mayorii"               "Plasmopara carlottae"             
-[7] "Sclerophthora cryophila"          
